@@ -18,6 +18,11 @@ Recent Computer Science graduate with expertise in Java, Python, and C++. Strong
 ### Skills
 Algorithms • APIs • Artificial Intelligence • C Programming • CSS • DBMS • Debugging • Flask • Google Cloud • HTML • IoT • Java • JavaScript • Machine Learning • Microcontrollers • NLP • NLTK • Python • Scikit-Learn • Sentiment Analysis • spaCy • SQL • TensorFlow
 
+### Certifications
+- PCAP™ – Certified Associate Python Programmer
+- Databricks Fundamentals by Databricks
+- Microsoft Technology Associate (MTA)
+- Architecting with Google Compute Engine
 ### Projects
 
 #### Fake News Detection System
@@ -32,3 +37,4 @@ Algorithms • APIs • Artificial Intelligence • C Programming • CSS • DB
 - Implemented remote control features for energy optimization
 - Created user-friendly interface for street light management
 - Conducted testing, debugging, and documentation
+
